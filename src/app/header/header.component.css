@@ -1,0 +1,46 @@
+
+header {
+    background-color: #FFBE98;
+    padding: 0px;
+    
+}
+
+a{
+    color: #000000;
+}
+
+.cart{
+   margin-top: .7rem;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 10rem;
+    background-color: #FFBE98;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+a.logo {
+    font-weight: bold;
+    padding: 1em;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+}
+nav ul li {
+    display: flex;
+}
+
+nav ul li a{
+    padding: 1rem 1rem 1rem 0.5rem;
+    ;
+}
+
+li a:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
